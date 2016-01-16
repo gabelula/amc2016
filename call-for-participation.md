@@ -13,6 +13,7 @@ We are looking for hands-on workshops, meet-ups, skill-sharing sessions, convers
 - which strategies we can develop to appropriate the tools we use?
 - which open source tools we have available where we control where the data is store?
 - is our community part of the people that make the open web?
+- what independent means in online media?
 
 We are looking for session proposals that cover:
 
@@ -25,5 +26,6 @@ We are looking for session proposals that cover:
 - Building inclusive technologies
 - Diversity in technology building
 - Building safe spaces online and offline
+- Data Journalism
 
 Please, send us any question or comment to blah-blah-blah.
