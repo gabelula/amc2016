@@ -14,6 +14,7 @@ We are looking for hands-on workshops, meet-ups, skill-sharing sessions, convers
 - which open source tools we have available where we control where the data is store?
 - is our community part of the people that make the open web?
 - what independent means in online media?
+- the Internet is shaping our societies, but who is shaping the development of the Internet?
 
 We are looking for session proposals that cover:
 
