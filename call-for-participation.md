@@ -30,4 +30,5 @@ We are looking for session proposals that cover:
 - Building safe spaces online and offline
 - Data journalism
 
-Please, send us any question or comment to **TODO**.
+
+# [*Propose a Session!*](https://docs.google.com/forms/d/18NTnEpJHFttbxsU3VHV-l5s7C6edzdM-iQZSqoE_80c/viewform)
